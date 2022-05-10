@@ -1,7 +1,5 @@
 import React from "react"
 
-
-
 const ViewMoreButton = ({text, url}) => {
 
     return (
@@ -14,3 +12,5 @@ const ViewMoreButton = ({text, url}) => {
 }
 
 export default ViewMoreButton
+
+// Have to add button.text, button.url somewhere

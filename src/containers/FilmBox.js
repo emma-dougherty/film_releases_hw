@@ -42,7 +42,6 @@ const FilmBox = () => {
                 url: "https://www.imdb.com/calendar/?region=gb"
             }
         ]
-    
     )
 
     return (
